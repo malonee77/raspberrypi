@@ -1,4 +1,4 @@
-# Primeiros Passos com a Raspberry PI 4
+# Raspberry Pi 4 
 
 ## Instalando o sistema operacional 
 
