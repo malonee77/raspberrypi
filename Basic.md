@@ -1,6 +1,6 @@
 # Raspberry Pi 4 
 
-## Instalando o sistema operacional 
+## INSTALANDO RASPBIAN
 
 1. Fazer o download da imagem do SO (**Raspbian**): https://www.raspberrypi.org/downloads/raspbian/
 
@@ -13,7 +13,8 @@ Feito isso, a Raspberry já está pronta para ser usada!
 <img src="imagens\GPIO.png" alt="gpio">
 
 Também é possível usar o comando 
-
+        
         pinout
+
 
 
