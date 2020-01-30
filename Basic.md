@@ -11,3 +11,9 @@ Feito isso, a Raspberry já está pronta para ser usada!
 ## GPIO 
 
 <img src="imagens\GPIO.png" alt="gpio">
+
+Também é possível usar o comando 
+
+        pinout
+
+
