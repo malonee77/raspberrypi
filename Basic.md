@@ -8,3 +8,6 @@
 
 Feito isso, a Raspberry já está pronta para ser usada! 
 
+## GPIO 
+
+
