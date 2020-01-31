@@ -18,3 +18,24 @@ Também é possível usar o comando
 
 
 
+## Configurar WiFi
+
+Créditos: @vitordangelo
+
+Para configurar o wifi na raspberry, crie um arquivo **sem extensão** na raiz  com o nome: 
+
+        wpa_supplicant.conf
+
+Com o código:
+
+        country=BR
+        ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+        update_config=1
+
+        network={
+                ssid="NETWORK-NAME"
+                psk="NETWORK-PASSWORD"
+        }
+
+        
+
