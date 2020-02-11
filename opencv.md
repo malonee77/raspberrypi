@@ -1,6 +1,8 @@
 # Instalação OpenCV na Raspberry Pi
 
-!> Créditos e Conteúdo do site: https://qengineering.eu/install-opencv-4.1-on-raspberry-pi-4.html
+<img src="imagens\opencv.png" alt="logo">
+
+> Créditos e Conteúdo do site: https://qengineering.eu/install-opencv-4.1-on-raspberry-pi-4.html
 
 Apenas notas de estudo.
 
