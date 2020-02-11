@@ -39,3 +39,24 @@ Com o código:
 
         
 
+## Câmera
+
+Nesta seção, vamos abordar alguns comandos úteis e algumas instruções para usar a câmera da Raspberry Pi.
+Para isso, inicialmente, habilite a câmera em *Raspberri Pi Configuration -> Interface - > Camera*.
+Em seguida, reinicie a Rasp com o comando
+
+        sudo reboot
+
+Crie um arquivo chamado *camera.py* e insira o código:
+
+        ## Importa a bilbioteca
+        from picamera import PiCamera
+        from time import sleep
+
+        ## Define um nome para a câmera
+        camera = PiCamera()
+
+        camera.start_preview()
+        sleep(5)
+        camera.stop_preview()
+
